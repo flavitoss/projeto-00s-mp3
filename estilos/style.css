@@ -46,6 +46,19 @@ nav{
     border-radius: 4px;
     
 }
+img#bpause{
+    width: 20px;
+    position: absolute;
+    right: 140px;
+    top: -33px;
+    bottom: ;
+}
+img#bteria{
+    width: 38px;
+    position: absolute;
+    right: 105px;
+    top: -33px;
+}
 p{
     margin: auto;
 }
