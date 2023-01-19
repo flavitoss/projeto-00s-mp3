@@ -36,7 +36,7 @@ main{
 }
 nav{
     background-color: rgb(192, 192, 192);
-    width: 50vw;
+    width: 350px;
     height: 39px;
     margin: auto;
     border-left: 4px solid black;
@@ -49,14 +49,14 @@ nav{
 img#bpause{
     width: 20px;
     position: absolute;
-    right: 140px;
+    right: 680px;
     top: -33px;
     
 }
 img#bteria{
     width: 38px;
     position: absolute;
-    right: 105px;
+    right: 638px;
     top: -33px;
 }
 p{
